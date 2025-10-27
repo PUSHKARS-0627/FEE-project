@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/ED669.png?v=1758711535&width=360",
+      "description": "Edifice Men Automatic Black Dial Analog Stainless Steel Watch",
+      "price": "₹26,995"
+    },
+    {
+      "brand": "CITIZEN",
+      "image": "https://justintime.in/cdn/shop/files/NJ0200-50E-1.jpg?v=1759733759&width=990",
+      "description": "Tsuyosa Men Automatic Black Dial Analog Stainless Steel Watch",
+      "price": "₹38,900"
+    },
+    {
+      "brand": "TISSOT",
+      "image": "https://justintime.in/cdn/shop/files/T1564081109300.jpg?v=1758612573&width=533",
+      "description": "Ballade Powermatic 80 Green Dial Analog Stainless Steel Watch",
+      "price": "₹1,04,500"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/a2282_1.png?v=1726142328&width=533",
+      "description": "Vintage Quartz Grey Dial Digital Stainless Steel Watch",
+      "price": "₹2,995"
+    },
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/products/1FlRwphZYiWDlCnbcDmhSbRprk4MD5uBK.jpg?v=1701332310&width=533",
+      "description": "Fossil Blue Dive Men Quartz Analog Stainless Steel Watch",
+      "price": "₹9,447"
+    },
+    {
+      "brand": "CITIZEN",
+      "image": "https://justintime.in/cdn/shop/products/1h0tuC0UBuufkrJKtV3KYb45D8m-u8lSW.jpg?v=1689945900&width=990",
+      "description": "Tsuyosa Automatic Blue Dial Analog Stainless Steel Watch",
+      "price": "₹39,500"
+    },
+    {
+      "brand": "TISSOT",
+      "image": "https://justintime.in/cdn/shop/products/T1204171109101.jpg?v=1682057310&width=990",
+      "description": "Seastar 1000 Quartz Blue Dial Stainless Steel Watch",
+      "price": "₹49,500"
+    },
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/products/1G907aoTHv3Os-rw7ohiOFbFfnl3d6imk.jpg?v=1684138613&width=990",
+      "description": "Machine Men Chronograph Black Dial Stainless Steel Watch",
+      "price": "₹10,995"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/D338_1.jpg?v=1737979258&width=990",
+      "description": "Vintage Digital Silver Stainless Steel Watch",
+      "price": "₹4,295"
+    },
+    {
+      "brand": "CITIZEN",
+      "image": "https://justintime.in/cdn/shop/files/BI5110-54A__1_-removebg-preview.png?v=1687343746&width=990",
+      "description": "Eco-Drive Chronograph White Dial Leather Strap Watch",
+      "price": "₹23,900"
+    },
+    {
+      "brand": "TISSOT",
+      "image": "https://justintime.in/cdn/shop/files/T1374101104100.jpg?v=1758611699&width=533",
+      "description": "PRX Quartz Blue Dial Analog Stainless Steel Watch",
+      "price": "₹45,000"
+    },
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/products/FS5151.jpg?v=1682338792&width=990",
+      "description": "Dean Chronograph Silver Dial Stainless Steel Watch",
+      "price": "₹12,495"
+    }
+  ]
+}

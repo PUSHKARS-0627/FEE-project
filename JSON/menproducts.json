@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/products/1dJOGQCOYN77vL6fjbpBr_rIbyQ4cPf-9.jpg?v=1695989466&width=493",
+      "description": "Carraway Men Quartz Silver Dial Analog Leather Watch",
+      "price": "₹13,495"
+    },
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/files/BQ2883-3P-25_a7305ac6-b14e-4935-9c8d-0720fe3a99b4.jpg?v=1754551061&width=493",
+      "description": "Men Quartz Black Dial Analog Stainless Steel Watch",
+      "price": "₹8,097"
+    },
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/products/FS5852.jpg?v=1682341125&width=493",
+      "description": "Bronson Men Black Dial Quartz Chronograph",
+      "price": "₹11,197"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A832.jpg?v=1682009386&width=990",
+      "description": "Edifice Quartz Black Dial Digital Stainless Steel Watch",
+      "price": "₹8,995"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/1OKrmdSb-8TfKuE2kuvMlDDrfi9arloLj.jpg?v=1686823051&width=990",
+      "description": "Edifice Men Quartz Black Dial Stainless Steel Watch",
+      "price": "₹11,246"
+    },
+    {
+      "brand": "TISSOT",
+      "image": "https://justintime.in/cdn/shop/files/T1379079720100.jpg?v=1745405863&width=990",
+      "description": "PRX Men Automatic Black Dial Carbon Watch",
+      "price": "₹110,500"
+    },
+    {
+      "brand": "FOSSIL",
+      "image": "https://justintime.in/cdn/shop/products/FS5151.jpg?v=1682338792&width=990",
+      "description": "Fossil Blue Dive Men Quartz Analog Stainless Steel Watch",
+      "price": "₹13,495"
+    },
+    {
+      "brand": "TISSOT",
+      "image": "https://justintime.in/cdn/shop/files/T1502101103101-Side.jpg?v=1748416368&width=533",
+      "description": "PR 100 Jungfraubahn Women Quartz Analog Stainless Steel Watch",
+      "price": "₹36,500"
+    },
+    {
+      "brand": "TISSOT",
+      "image": "https://justintime.in/cdn/shop/files/T1504101104102-Front.jpg?v=1748416590&width=823",
+      "description": "PR 100 Jungfraubahn Men Quartz Analog Stainless Steel Watch",
+      "price": "₹36,500"
+    },
+    {
+      "brand": "CITIZEN",
+      "image": "https://justintime.in/cdn/shop/products/BI5104-57X_1.jpg?v=1682018800&width=533",
+      "description": "Hyperion Men Quartz Analog Stainless Steel Watch",
+      "price": "₹12,500"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/G1582.png?v=1730981485&width=533",
+      "description": "G-Shock Men Vintage Quartz Analog Stainless Steel Watch",
+      "price": "₹19,995"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A1177_1.jpg?v=1682015696&width=533",
+      "description": "Enticer Men Quartz White Dial Multi-Function Leather Watch",
+      "price": "₹3,795"
+    }
+  ]
+}

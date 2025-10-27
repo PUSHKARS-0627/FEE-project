@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/A1539_1_6bd6baea-2424-450e-9eff-0ba48955b0e9.jpg?v=1746516681&width=990",
+      "description": "Enticer Men Quartz White Dial Analog Stainless Steel Watch",
+      "price": "₹3,695"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A834_1.jpg?v=1682009400&width=360",
+      "description": "Men Quartz Black Dial Analog Stainless Steel Watch",
+      "price": "₹8,097"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A838.jpg?v=1682009428&width=990",
+      "description": "Men Black Dial Quartz Chronograph",
+      "price": "₹4,500"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A832.jpg?v=1682009386&width=990",
+      "description": "Edifice Quartz Black Dial Digital Stainless Steel Watch",
+      "price": "₹8,995"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/1OKrmdSb-8TfKuE2kuvMlDDrfi9arloLj.jpg?v=1686823051&width=990",
+      "description": "Edifice Men Quartz Black Dial Stainless Steel Watch",
+      "price": "₹11,246"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/EX529.jpg?v=1682008268&width=990",
+      "description": "Men Automatic Black Dial Carbon Watch",
+      "price": "₹26,995"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/ED669.png?v=1758711535&width=990",
+      "description": "Black Dive Men Quartz Analog Stainless Steel Watch",
+      "price": "₹40,665"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/ED672_1.png?v=1758711842&width=990",
+      "description": "PR 100 Men Quartz Analog Stainless Steel Watch",
+      "price": "₹36,500"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A1369.jpg?v=1682008398&width=990",
+      "description": "PR 100 Jungfraubahn Men Quartz Analog Stainless Steel Watch",
+      "price": "₹3,000"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/A1734.png?v=1726477984&width=990",
+      "description": "Hyperion Men Quartz Analog Stainless Steel Watch",
+      "price": "₹12,500"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/files/G1582.png?v=1730981485&width=533",
+      "description": "G-Shock Men Vintage Quartz Analog Stainless Steel Watch",
+      "price": "₹19,995"
+    },
+    {
+      "brand": "CASIO",
+      "image": "https://justintime.in/cdn/shop/products/A1177_1.jpg?v=1682015696&width=533",
+      "description": "Enticer Men Quartz White Dial Multi-Function Leather Watch",
+      "price": "₹3,795"
+    }
+  ]
+}

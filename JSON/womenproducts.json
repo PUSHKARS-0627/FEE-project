@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "brand": "FOSSIL",
+      "description": "Carraway Women Quartz Silver Dial Analog Leather Watch",
+      "price": "₹13495",
+      "image": "https://justintime.in/cdn/shop/products/ES3716.jpg?v=1682334469&width=990"
+    },
+    {
+      "brand": "FOSSIL",
+      "description": "Women Quartz White Dial Analog Stainless Steel Watch",
+      "price": "₹8097",
+      "image": "https://justintime.in/cdn/shop/products/CE1107.jpg?v=1682326321&width=990"
+    },
+    {
+      "brand": "FOSSIL",
+      "description": "Women Black Dial Quartz Chronograph",
+      "price": "₹11197",
+      "image": "https://justintime.in/cdn/shop/products/FS5852.jpg?v=1682341125&width=493"
+    },
+    {
+      "brand": "CASIO",
+      "description": "Quartz Golden Dial Digital Leather Strap Watch",
+      "price": "₹1995",
+      "image": "https://justintime.in/cdn/shop/files/A2159_1.jpg?v=1752227840&width=990"
+    },
+    {
+      "brand": "CASIO",
+      "description": "Edifice Women Quartz Blue Dial Stainless Steel Watch",
+      "price": "₹3246",
+      "image": "https://justintime.in/cdn/shop/products/A1623.jpg?v=1682011925&width=990"
+    },
+    {
+      "brand": "TISSOT",
+      "description": "PRX Women Automatic Black Dial Carbon Watch",
+      "price": "₹86000",
+      "image": "https://justintime.in/cdn/shop/files/T1222072203300-1.jpg?v=1759842241&width=990"
+    },
+    {
+      "brand": "FOSSIL",
+      "description": "Fossil Blue Dive Quartz Analog Stainless Steel Watch",
+      "price": "₹13495",
+      "image": "https://justintime.in/cdn/shop/products/FS4835.jpg?v=1682338615&width=990"
+    },
+    {
+      "brand": "TISSOT",
+      "description": "PR 100 Jungfraubahn Women Quartz Analog Stainless Steel Watch",
+      "price": "₹36500",
+      "image": "https://justintime.in/cdn/shop/files/T1502101104101-Front.jpg?v=1748416437&width=990"
+    },
+    {
+      "brand": "TISSOT",
+      "description": "PR 100 Women Quartz Analog Stainless Steel Watch",
+      "price": "₹56500",
+      "image": "https://justintime.in/cdn/shop/files/T1202102205101.jpg?v=1750939658&width=990"
+    },
+    {
+      "brand": "CITIZEN",
+      "description": "Hyperion Women Quartz Analog Stainless Steel Watch",
+      "price": "₹12500",
+      "image": "https://justintime.in/cdn/shop/products/1FMXj4mfIeLkEuC93aNNAgkIrj3GhA-yF.jpg?v=1684138197&width=990"
+    },
+    {
+      "brand": "CASIO",
+      "description": "G-Shock Women Vintage Quartz Analog Stainless Steel Watch",
+      "price": "₹19995",
+      "image": "https://justintime.in/cdn/shop/files/G1582.png?v=1730981485&width=533"
+    },
+    {
+      "brand": "CASIO",
+      "description": "Enticer Women Quartz White Dial Multi-Function Leather Watch",
+      "price": "₹3795",
+      "image": "https://justintime.in/cdn/shop/products/A1177_1.jpg?v=1682015696&width=533"
+    }
+  ]
+}
