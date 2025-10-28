@@ -87,7 +87,7 @@
       <div class="largepic">
         <div class="imagelarge"></div>
         <div class="addtocart">
-          <button>Add to Cart</button>
+         <button class="addtocartbutton">Add to Cart</button>
         </div>
       </div>
     </div>
@@ -152,43 +152,66 @@
   </footer>
 
   <!-- JS -->
-  <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const product = JSON.parse(localStorage.getItem("selectedProduct"));
-      if (!product) {
-        console.error("No product data found in localStorage.");
-        return;
-      }
+ <script>
+document.addEventListener("DOMContentLoaded", () => {
+  const product = JSON.parse(localStorage.getItem("selectedProduct"));
+  if (!product) {
+    console.error("No product data found in localStorage.");
+    return;
+  }
 
-      document.querySelector(".brandname p").textContent = product.brand;
-      document.querySelector(".description p").textContent = product.description;
-      document.querySelector(".price p").textContent = product.price;
+  // --- Display product details ---
+  document.querySelector(".brandname p").textContent = product.brand;
+  document.querySelector(".description p").textContent = product.description;
+  document.querySelector(".price p").textContent = product.price;
 
-      // Large Image
-      const imageContainer = document.querySelector(".imagelarge");
-      imageContainer.innerHTML = "";
-      const largeImg = document.createElement("img");
-      largeImg.src = Array.isArray(product.images)
-        ? product.images[0]
-        : product.image;
-      largeImg.alt = product.brand + " watch";
-      imageContainer.appendChild(largeImg);
+  const imageContainer = document.querySelector(".imagelarge");
+  imageContainer.innerHTML = "";
+  const largeImg = document.createElement("img");
+  largeImg.src = product.image;
+  largeImg.alt = `${product.brand} watch`;
+  imageContainer.appendChild(largeImg);
 
-      // Brand description
-      const brandDescriptions = {
-        CASIO: "CasioIndiaShop.com is a truly devoted site for CASIO products.",
-        TISSOT:
-          "Tissot is a Swiss luxury watch brand known for precision and elegance since 1853.",
-        FOSSIL:
-          "Fossil offers contemporary watches with a perfect blend of fashion and functionality.",
-        CITIZEN:
-          "Citizen is a pioneer in eco-friendly watch technology, combining innovation with style.",
-      };
+  // --- Brand description ---
+  const brandDescriptions = {
+    "CASIO": "Casio India brings precision and innovation to every timepiece.",
+    "TISSOT": "Swiss luxury and timeless craftsmanship since 1853.",
+    "FOSSIL": "Fossil blends modern design with vintage inspiration.",
+    "CITIZEN": "Eco-Drive technology meets stylish, reliable watches."
+  };
+  document.querySelector(".aboutbrand p").textContent =
+    brandDescriptions[product.brand] || `Explore the elegance of ${product.brand} watches.`;
 
-      document.querySelector(".aboutbrand p").textContent =
-        brandDescriptions[product.brand] ||
-        `Discover amazing watches from ${product.brand}.`;
+  // --- ADD TO CART FUNCTIONALITY ---
+  const addToCartBtn = document.querySelector(".addtocartbutton");
+
+  if (addToCartBtn) {
+    addToCartBtn.addEventListener("click", () => {
+      // POST to JSON Server
+      fetch("http://localhost:3000/cart", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(product)
+      })
+      .then(response => {
+        if (!response.ok) throw new Error("Failed to add to cart");
+        return response.json();
+      })
+      .then(() => {
+        alert(`${product.brand} added to your cart successfully!`);
+        window.location.href = "cart.html"; // ✅ Redirect after adding
+      })
+      .catch(error => {
+        console.error("Error adding to cart:", error);
+        alert("Something went wrong. Please make sure JSON Server is running.");
+      });
     });
-  </script>
+  } else {
+    console.error("Add to Cart button not found in DOM.");
+  }
+});
+</script>
+
+
 </body>
 </html>
